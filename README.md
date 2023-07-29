@@ -10,7 +10,7 @@ The file LevelExpLevels.txt contains energies of maxima of bound->bound transiti
 manuscript or source code of the genetic algorithm), the energy of the first maximum in the spectrum was subtracted from the energies of all maxima.
 Both files can be directly used with algorithm from Code_of_genetic_algorithm.ipynb 
 
-
-
+The files bc.in and pro.lvlin contain the input file of BCONT and LEVEL programs, which are utilized by the genetic algorithm.
+The source code of the LEVEL and BCONT programs is available on the website of their author, Prof. R. J. LeRoy http://www.ace.uwaterloo.ca/leroy_index.php
 
 
